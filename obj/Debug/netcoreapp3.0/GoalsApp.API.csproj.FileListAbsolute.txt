@@ -1,0 +1,15 @@
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.exe
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.deps.json
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.runtimeconfig.json
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.runtimeconfig.dev.json
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.dll
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\bin\Debug\netcoreapp3.0\GoalsApp.API.pdb
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.csprojAssemblyReference.cache
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.csproj.CoreCompileInputs.cache
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.RazorAssemblyInfo.cache
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.RazorAssemblyInfo.cs
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.AssemblyInfoInputs.cache
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.AssemblyInfo.cs
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.dll
+C:\Users\on09\Documents\Projects\GoalsApp\GoalsApp.API\obj\Debug\netcoreapp3.0\GoalsApp.API.pdb
